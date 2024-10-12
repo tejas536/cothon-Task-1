@@ -4,7 +4,6 @@ DOMAIN:Cloud computing
 DURATION:1 week
 MENTOR:Raj mohammed
 
-
 OVERVIEW OF PROJECT
 
 Project:Presentation on cloud computing EC2 Instance
